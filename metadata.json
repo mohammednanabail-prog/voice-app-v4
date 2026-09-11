@@ -1,0 +1,6 @@
+{
+  "name": "ناطق النصوص متعدد اللغات",
+  "description": "تطبيق ويب للموبايل لتحويل النصوص والجمل المختلطة (عربي، فرنسي، إنجليزي) إلى مقطع صوتي مدمج مع نطق أصلي دقيق وإمكانية التنزيل الفوري بدون تسجيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
